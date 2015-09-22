@@ -1,0 +1,6 @@
+     1	creating readme file
+     2	another line for readme
+     3	line 3 for readme
+     4	line 4 for readme
+     5	file test1^M
+     6	file test2^M
